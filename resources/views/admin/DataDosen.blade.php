@@ -138,8 +138,7 @@
 				</table>
 	  		</div>
 	  		<div class="tab-pane" id="tab_2">
-	  			<div class="col-8">
-		  			<form class="form-horizontal">
+	  			<form class="form-horizontal">
 		                <div class="card-body">
 		                  <div class="form-group row">
 		                    <label for="inputNik3" class="col-sm-2 col-form-label">Nik</label>
@@ -185,7 +184,6 @@
 		                </div>
 		                <!-- /.card-footer -->
 		            </form>
-	  			</div>
 	  		</div>
 	  	</div>
 	    
