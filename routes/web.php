@@ -33,7 +33,4 @@ Route::group(['prefix' => 'admin'], function () {
 	Route::get('/jadwal',    [AdminController::class, 'jadwal']);
 });
 
-Route::get('/test', function (){
-	return view('index');
-});
 
